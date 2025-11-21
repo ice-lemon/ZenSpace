@@ -1,0 +1,8 @@
+{
+  "name": "ZenSpace - AI Organizer",
+  "description": "Upload photos of your rooms to get instant, AI-powered organization and decluttering suggestions, or chat with our expert AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
